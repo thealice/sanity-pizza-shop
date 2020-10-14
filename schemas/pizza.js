@@ -1,4 +1,4 @@
-import { MdLocalPIzza as icon } from 'react-icons/md';
+import { MdLocalPizza as icon } from 'react-icons/md';
 
 export default {
   name: 'pizza',
